@@ -1,0 +1,25 @@
+Blog links for the task
+
+1) HTTP/1.1 vs HTTP/2 : What’s the Difference?
+
+https://vijaybalajivj.medium.com/http-1-1-vs-http-2-whats-the-difference-434c625ea9ee
+
+2) What happen’s when you type www.Google.com
+
+https://vijaybalajivj.medium.com/what-happens-when-you-type-www-google-com-352e607579dd
+
+3)Objects and its Internal Representation in Java Script
+
+https://vijaybalajivj.medium.com/objects-and-its-internal-representation-in-java-script-300f462b77c4
+
+4)What is Window, Document and Screen in Java Script ?
+
+https://vijaybalajivj.medium.com/what-is-window-document-and-screen-in-java-script-b8bd2409c5d0
+
+5)Why there is a difference in behavior for copying contents in primitive and non primitive type?
+
+https://vijaybalajivj.medium.com/why-there-is-a-difference-in-behavior-for-copying-contents-in-primitive-and-non-primitive-type-1ad8b085fd16
+
+6)How do you copy by value a composite data type ?
+
+https://vijaybalajivj.medium.com/how-do-you-copy-by-value-a-composite-data-type-96425fc6c1d5
